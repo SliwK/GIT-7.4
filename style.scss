@@ -1,0 +1,25 @@
+@mixin box {
+  margin: 0 auto;
+  text-align: center;
+  width: 900px;
+}
+
+body {
+  @include box;
+  background-color: #d37090;
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
+  .container {
+      background-color: #973252;
+  }
+  h1 {
+      background-color: #1f000a;
+  }
+  h2 {
+      background-color: #5b0c25;
+  }
+  .footer {
+      @include box;
+      background-color: #1f000a;
+  }
+}
