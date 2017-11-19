@@ -9,7 +9,8 @@ body {
     background-color: #973252; }
   body h1 {
     background-color: #1f000a;
-    text-transform: capitalize; }
+    text-transform: capitalize;
+    text-transform: uppercase; }
   body h2 {
     background-color: #5b0c25; }
   body .footer {
