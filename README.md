@@ -1,2 +1,2 @@
-# GIT-7.3
-GIT - ćwiczenie z rozdziału 7.3
+# GIT-7.4
+GIT - ćwiczenie z rozdziału 7.4
